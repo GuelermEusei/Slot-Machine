@@ -1,0 +1,32 @@
+#quadrado1{
+    width: 500px;
+}
+#quadrado2{
+    width: 500px;
+}
+#quadrado3{
+    width: 500px;
+}
+
+body {
+}
+
+#SEMVIRUS{
+    flex-direction: column;
+    text-align: center; 
+}
+
+#uc{
+    border-radius: 98em;
+    padding: 1em;
+    border-color: red;
+    color: red;
+    background-color: yellow;
+    transition: 9s;
+}
+
+#uc:hover{
+    padding: 50em;
+    transition: 9s;
+    cursor: not-allowed;
+}
